@@ -9,6 +9,12 @@ html {
   scroll-behavior: smooth;
 }
 
+
+@font-face {
+    font-family: 'DeadStock';
+    src: url(Deadstocl-demo.ttf);
+    font-weight: bold;
+}
 /*--------------------
 Top Bar
 --------------------*/
